@@ -7,7 +7,7 @@ DEV OPS = plan, code, build, test / release, deploy, operate, monitor
 
 DEV JIG "PKG"
 
-1/ as an outsider, oss contributor, issue=>fork=>code=>pr=>[await as merge]=>done.
+1/ as an outsider, oss contributor, issue=>fork=>code=>pr=>[await bc merge]=>done.
 
 PR 28: https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/28
 
